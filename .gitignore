@@ -1,4 +1,5 @@
+# netbeans
 /nbproject/private/
+
+# cordova
 /platforms/
-/plugins/
-/www/bower_lib/

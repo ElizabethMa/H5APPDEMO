@@ -1,0 +1,29 @@
+{
+  "name": "H5APPDEMO",
+  "version": "0.0.0",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "www/bower_lib",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/ElizabethMa/H5APPDEMO",
+  "authors": [
+    "Elizabeth <ma_yanqiong@163.com>"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "dynamics.js": "~0.0.9",
+    "jquery": "~2.1.4"
+  }
+}
